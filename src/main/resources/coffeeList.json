@@ -1,0 +1,43 @@
+[ {
+  "company" : "Tchibo",
+  "type" : "ARABICA",
+  "acidity" : 2,
+  "flavour" : "nutty",
+  "roasted" : "DARK",
+  "units" : "85"
+}, {
+  "company" : "Doncafe",
+  "type" : "ROBUSTA",
+  "acidity" : 3,
+  "flavour" : "winey",
+  "roasted" : "DARK",
+  "units" : "55"
+}, {
+  "company" : "Dallmayr",
+  "type" : "ROBUSTA",
+  "acidity" : 5,
+  "flavour" : "fruity",
+  "roasted" : "MEDIUM",
+  "units" : "2"
+}, {
+  "company" : "Lavazza",
+  "type" : "ARABICA",
+  "acidity" : 4,
+  "flavour" : "fruity",
+  "roasted" : "DARK",
+  "units" : "22"
+}, {
+  "company" : "Jacobs",
+  "type" : "ROBUSTA",
+  "acidity" : 3,
+  "flavour" : "nutty",
+  "roasted" : "DARK",
+  "units" : "57"
+}, {
+  "company" : "Jacobs",
+  "type" : "ARABICA",
+  "acidity" : 5,
+  "flavour" : "chocolatey",
+  "roasted" : "MEDIUM",
+  "units" : "9"
+} ]
